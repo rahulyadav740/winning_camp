@@ -13,7 +13,7 @@ Brick House
 Renovated House
 
 Barn House
-
+ shelter 
 Each image is labeled with its corresponding project title.
 
 🧾 Features
